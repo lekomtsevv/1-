@@ -1,0 +1,23 @@
+﻿  Input.cpp
+  InputValidation.cpp
+  Interface.cpp
+  Selection.cpp
+  Main.cpp
+  Subscriber.cpp
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(10): warning C4458: объявление "surname" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(8): note:  см. объявление "Subscriber::surname"
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(20): warning C4458: объявление "name" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(9): note:  см. объявление "Subscriber::name"
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(30): warning C4458: объявление "patronymic" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(10): note:  см. объявление "Subscriber::patronymic"
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(40): warning C4458: объявление "adress" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(11): note:  см. объявление "Subscriber::adress"
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(50): warning C4458: объявление "phone_number" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(12): note:  см. объявление "Subscriber::phone_number"
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(60): warning C4458: объявление "talk_time_in_the_city" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(13): note:  см. объявление "Subscriber::talk_time_in_the_city"
+c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.cpp(70): warning C4458: объявление "talk_time_between_cities" скрывает член класса
+  c:\users\руслан\desktop\1 кр\first_task\first_task\subscriber.h(14): note:  см. объявление "Subscriber::talk_time_between_cities"
+  Создание кода...
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl GetInt(void)" (?GetInt@@YAHXZ) в функции main
+C:\Users\Руслан\Desktop\1 кр\First_task\x64\Debug\First_task.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
